@@ -1,0 +1,15 @@
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.AssemblyReference.cache
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfoInputs.cache
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.AssemblyInfo.cs
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.csproj.CoreCompileInputs.cache
+C:\Cisharp\Seminar1\HomeWork4\bin\Debug\net6.0\HomeWork4.exe
+C:\Cisharp\Seminar1\HomeWork4\bin\Debug\net6.0\HomeWork4.deps.json
+C:\Cisharp\Seminar1\HomeWork4\bin\Debug\net6.0\HomeWork4.runtimeconfig.json
+C:\Cisharp\Seminar1\HomeWork4\bin\Debug\net6.0\HomeWork4.dll
+C:\Cisharp\Seminar1\HomeWork4\bin\Debug\net6.0\HomeWork4.pdb
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.dll
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\refint\HomeWork4.dll
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.pdb
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\HomeWork4.genruntimeconfig.cache
+C:\Cisharp\Seminar1\HomeWork4\obj\Debug\net6.0\ref\HomeWork4.dll
